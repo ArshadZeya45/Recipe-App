@@ -11,7 +11,7 @@ const Favourite = () => {
 
   return (
     <>
-      <div className="w-full min-h-screen px-5 sm:px-8 md:px-16 lg:px-24 py-8 sm:py-12 md:py-16">
+      <div className="w-full min-h-screen px-5 sm:px-8 md:px-16 lg:px-24 py-5 sm:py-12 md:py-16">
         <Navbar />
         {/* Page Title */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center md:text-left">

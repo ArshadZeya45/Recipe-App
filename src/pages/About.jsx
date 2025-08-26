@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 const About = () => {
   return (
     <>
-      <div className="min-h-screen bg-[#1E1E1E] text-[#F5F5F5] px-6 py-12 md:px-25">
+      <div className="min-h-screen bg-[#1E1E1E] text-[#F5F5F5] px-5 py-5 md:px-25">
         <Navbar />
         <div className="max-w-5xl mx-auto">
           {/* Heading */}

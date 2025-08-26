@@ -44,7 +44,7 @@ const RecipeDetail = () => {
   };
 
   return (
-    <div className="max-w-6xl min-h-screen mx-auto px-4 sm:px-6 md:px-8 lg:px-12 py-8 sm:py-12">
+    <div className="max-w-6xl min-h-screen mx-auto px-5 sm:px-6 md:px-8 lg:px-12 py-5 sm:py-12">
       <Navbar />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-start">
         {/* Left Side - Image */}
