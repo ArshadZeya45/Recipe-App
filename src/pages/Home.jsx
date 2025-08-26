@@ -14,7 +14,7 @@ const Home = () => {
   }, []);
   return (
     <>
-      <div className="w-full px-5 sm:px-8 md:px-16 lg:px-24 py-8 sm:py-12 md:py-16">
+      <div className="w-full px-5 sm:px-8 md:px-16 lg:px-24 py-5 sm:py-12 md:py-16">
         <Navbar />
 
         {/* Heading Section */}

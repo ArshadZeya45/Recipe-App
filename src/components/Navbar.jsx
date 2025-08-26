@@ -28,10 +28,10 @@ const Navbar = () => {
           <img
             src="/zaika.png"
             alt="logo"
-            className="w-12 h-12 object-cover rounded-full"
+            className="w-10 h-10  object-cover rounded-full"
           />
           <h2
-            className="text-3xl font-thin text-white"
+            className="text-2xl font-thin text-white"
             style={{ fontFamily: "'Cedarville Cursive', cursive" }}
           >
             Zaika
